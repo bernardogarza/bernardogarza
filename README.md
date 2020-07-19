@@ -11,15 +11,12 @@ I'm looking for a fully remote position or relocating to California or the south
 If you'd like to get in touch about potential job opportunities, please reach out! 
 
 
-| Skills :computer: |
-| :----: |
-| HTML |
-| SCSS |
-| JS |
-| Ruby |
-| Rails |
-| React |
-| Redux |
+```js
+const bernardo  = {
+  code: [Html, Css, Ruby, Javascript],
+  tools: [Rails, React, Redux, Sass],
+}
+```
 
 - 🌱 I'm currently learning Spring.js, D3.js and Three.js
 - 🤔 I'm interested in learning GatsbyJS and Next.js
