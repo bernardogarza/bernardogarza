@@ -21,8 +21,8 @@ If you'd like to get in touch about potential job opportunities, please reach ou
 | React |
 | Redux |
 
-- 🌱 I'm currently learning: Spring.js, D3.js and Three.js
-- 🤔 I'm interested in learning: GatsbyJS and Next.js
+- 🌱 I'm currently learning Spring.js, D3.js and Three.js
+- 🤔 I'm interested in learning GatsbyJS and Next.js
 
 
 <a href="https://www.linkedin.com/in/bernardo-g-landa/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
