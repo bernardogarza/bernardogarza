@@ -18,7 +18,7 @@ const bernardo  = {
 }
 ```
 
-- 🌱 I'm currently learning Spring.js, D3.js and Three.js
+- 🌱 I'm currently learning TensorFlow.js, Spring.js, D3.js and Three.js
 - 🤔 I'm interested in learning GatsbyJS and Next.js
 
 
