@@ -8,7 +8,6 @@ Check out [My Portfolio](https://bernardogarza.me) (work in progress :hourglass_
 
 I'm looking for a fully remote position or relocating to California or the south of Canada.
 
-If you'd like to get in touch about potential job opportunities, please reach out! 
 
 
 ```js
