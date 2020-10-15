@@ -6,7 +6,7 @@ I have experience working remotely and pair programming. I have developed severa
 
 Check out [My Portfolio](https://bernardogarza.me) (work in progress :hourglass_flowing_sand:)
 
-I'm looking for a fully remote position or relocating to California, the south of Canada or, Europe.
+I'm looking for a fully remote position or relocating to the south of Canada or Europe.
 
 
 
