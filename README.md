@@ -21,8 +21,7 @@ const bernardo  = {
 
 
 
-- 🌱 I'm currently learning TensorFlow.js, Spring.js, D3.js and Three.js
-- 🤔 I'm interested in learning GatsbyJS and Express.js
+
 
 ![Bernardo's github stats](https://github-readme-stats.vercel.app/api?username=bernardogarza&theme=dark&show_icons=true&count_private=true)
 
