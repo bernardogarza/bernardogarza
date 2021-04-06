@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-My name is [Bernardo Garza](https://www.linkedin.com/in/bernardo-g-landa/) and I am a Web developer with a keen interest in learning new technologies and perfecting my current skills. I am passionate about design, good looking UI, and functional UX.
+My name is [Bernardo Garza](https://www.linkedin.com/in/bernardo-g-landa/) and web developer with a strong
+interest in learning new front end
+technologies and perfecting my
+current skills. I am interested in
+teams valuing quality, and clean
+code principles.
 
 I have experience working remotely and pair programming. I have developed several web apps that can be used by companies by implementing their branding.
 
