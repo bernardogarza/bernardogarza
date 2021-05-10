@@ -9,9 +9,9 @@ code principles.
 
 I have experience working remotely and pair programming. I have developed several web apps that can be used by companies by implementing their branding.
 
-Check out [My Portfolio](https://bernardogarza.me)
+Check out <a href="https://bernardogarza.me" target="_blank">My Portfolio</a>
 
-Check out [My Articles](https://hackernoon.com/u/BernardoGarza)
+Check out <a href="https://bernardogarza.me" target="_blank">My Articles</a>
 
 I'm looking for a fully remote position or relocating to the south of Canada or Europe.
 
