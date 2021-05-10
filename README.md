@@ -9,7 +9,7 @@ code principles.
 
 I have experience working remotely and pair programming. I have developed several web apps that can be used by companies by implementing their branding.
 
-Check out [My Portfolio](https://bernardogarza.me) (work in progress :hourglass_flowing_sand:)
+Check out [My Portfolio](https://bernardogarza.me)
 
 Check out [My Articles](https://hackernoon.com/u/BernardoGarza)
 
