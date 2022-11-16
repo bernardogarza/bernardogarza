@@ -13,7 +13,6 @@ Check out <a href="https://bernardogarza.me" target="_blank">My Portfolio</a>
 
 Check out <a href="https://hackernoon.com/u/BernardoGarza" target="_blank">My Articles</a>
 
-I'm looking for a fully remote position or relocating to the south of Canada or Europe.
 
 
 
