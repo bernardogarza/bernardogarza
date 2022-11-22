@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is [Bernardo Garza](https://www.linkedin.com/in/bernardo-g-landa/) and web developer with a strong
+My name is [Bernardo Garza](https://www.linkedin.com/in/bernardo-g-landa/). I'm web developer with a strong
 interest in learning new front end
 technologies and perfecting my
 current skills. I am interested in
