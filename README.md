@@ -7,7 +7,6 @@ current skills. I am interested in
 teams valuing quality, and clean
 code principles.
 
-I have experience working remotely and pair programming. I have developed several web apps that can be used by companies by implementing their branding.
 
 Check out <a href="https://bernardogarza.me" target="_blank">My Portfolio</a>
 
