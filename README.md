@@ -18,7 +18,7 @@ Check out <a href="https://hackernoon.com/u/BernardoGarza" target="_blank">My Ar
 ```js
 const bernardo  = {
   code: [Html, Css, Ruby, Javascript],
-  tools: [Rails, React, Redux, Sass],
+  tools: [Rails, React, Redux, Sass, Typescript, Tailwind],
 }
 ```
 
