@@ -26,7 +26,7 @@ const bernardo  = {
 
 
 
-![Bernardo's github stats](https://github-readme-stats.vercel.app/api?username=bernardogarza&theme=dark&show_icons=true&count_private=true)
+[![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardogarza&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://www.linkedin.com/in/bernardo-g-landa/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
