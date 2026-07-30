@@ -26,7 +26,7 @@ const bernardo  = {
 
 
 
-[![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardogarza&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=bernardogarza&show_icons=true&include_all_commits=true&rank_icon=github&title_color=a277ff&text_color=edecee&icon_color=61ffca&ring_color=f694ff&border_color=29263c&bg_color=15141b&border_radius=8)](https://github.com/stats-organization/github-stats-extended)
 
 
 <a href="https://www.linkedin.com/in/bernardo-g-landa/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
